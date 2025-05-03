@@ -1,0 +1,6 @@
+gradio
+langchain
+langchain_community
+psycopg2
+python-dotenv
+sqlite3  # Built-in with Python, no need to install separately
