@@ -24,4 +24,5 @@ This project is a Gradio-based application that converts natural language questi
 
 1. Clone the repository:
    ```bash
+   git clone https://github.com/Saurabhkokare/TextToSQL
    
